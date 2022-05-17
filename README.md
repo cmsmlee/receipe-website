@@ -1,0 +1,3 @@
+This repository was created as part of a Odin Project Assignment. Upon completing this assignment I will have demonstrated an understanding of how to use git, use relative links, upload images to a webpage and other foundational skills that I have learned in the Odin Project Foundations course.
+
+This webpage will be filled with receipes I have created myself. More receipes can be found on instagram @bigbuffbakedgoods
